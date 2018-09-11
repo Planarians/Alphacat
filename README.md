@@ -1,2 +1,2 @@
-# Alphacat
+# planarians
 myself
